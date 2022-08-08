@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🏫 一枚即将毕业的在校生
+- 📚 正在学习计算机组成原理...
+
 <!--
 **Iuhay/Iuhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
